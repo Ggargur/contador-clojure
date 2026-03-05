@@ -37,7 +37,10 @@ counter-project/
 └── counter/
     ├── package.json
     └── src/
+        └── api.tsx
         └── App.tsx
+        └── Counter.tsx
+        └── main.tsx
 ```
 
 ---
